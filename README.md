@@ -1,5 +1,5 @@
 # Ip-Changer.py
-This tool help you to change your current id address and mac address 
+This tool help you to change your current ip address and mac address 
 import subprocess
 
 def chnage_mac(interface, new_mac):
